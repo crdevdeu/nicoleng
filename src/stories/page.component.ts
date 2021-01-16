@@ -59,7 +59,7 @@ import { Component, Input, Output, EventEmitter } from '@angular/core';
         .
       </p>
       <div class="tip-wrapper">
-        <span class="tip">Tip</span> Adjust the width of the canvas with the
+        <span class="tip">Tip</span> I like dancing in the rain
         <svg
           width="10"
           height="10"
