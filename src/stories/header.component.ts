@@ -27,7 +27,7 @@ import { Component, Input, Output, EventEmitter } from '@angular/core';
           </g>
         </svg>
         <h1>Acme</h1>
-        <h2>I am cool</h2>
+        <h2>I am cooler now</h2>
       </div>
       <div>
         <storybook-button
